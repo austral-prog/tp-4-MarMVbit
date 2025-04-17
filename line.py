@@ -3,7 +3,7 @@ def line():
     a = float(input('Ingrese el coeficiente A: '))
     b = float(input('Ingrese el coeficiente B: '))
     x1 = float(input('Ingrese el coeficiente X1: '))
-    x2 = float(input('Ingree el coeficiente X2: '))
+    x2 = float(input('Ingrese el coeficiente X2: '))
     print('El coeficiente A de su ecuación de la recta es: ',a)
     print('El coeficiente B de su ecuación de la recta es: ',b)
     print('El coeficiente X1 de su ecuación de la recta es: ',x1)
